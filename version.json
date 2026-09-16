@@ -1,10 +1,10 @@
 {
-    "versionCode":  3,
-    "versionName":  "1.0.2",
-    "apk":  "tangtangcat-1.0.2.apk",
-    "sha256":  "de5c45551cabf59cef9164712307954e796f4e669611dfe1064b4b7bd7962e6d",
-    "size":  15425562,
-    "notes":  "자동 업데이트 동작 확인용 배포",
+    "versionCode":  4,
+    "versionName":  "1.0.3",
+    "apk":  "tangtangcat-1.0.3.apk",
+    "sha256":  "db4d3a5bbfea1002ab9fd2c6988a21aa0ad89c14949df92bbdac7ee166d8ba49",
+    "size":  15425834,
+    "notes":  "게임 중에도 새 버전을 자동으로 확인해요",
     "mandatory":  false,
-    "publishedAt":  "2026-09-17T08:10:53+09:00"
+    "publishedAt":  "2026-09-17T08:20:15+09:00"
 }
