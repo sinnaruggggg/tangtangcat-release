@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apk": "tangtangcat-1.0.4.apk",
-  "sha256": "7d03fa33166a03a682d6f0d9a7d9ff916710a2821217eb4980a44327340dfefa",
-  "size": 18984876,
-  "notes": "8개 챕터의 장별 몬스터와 보스 40종을 실제 투명 PNG 에셋으로 교체",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apk": "tangtangcat-1.0.5.apk",
+  "sha256": "d69c46ec4fd02bde39363456327a04f658fbcf02acf4e4935ae0044ce8ba7c50",
+  "size": 18984884,
+  "notes": "몬스터가 목표 좌표가 아닌 실제 이동 방향을 바라보도록 수정",
   "mandatory": false,
-  "publishedAt": "2026-09-18T00:11:51+09:00"
+  "publishedAt": "2026-09-18T00:44:37+09:00"
 }
