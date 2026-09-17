@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apk": "tangtangcat-1.0.6.apk",
-  "sha256": "2dbc916fc47024f2fef721e55f82fc07eb2a75ce715382611e1e9efd9ccc0357",
-  "size": 26167159,
-  "notes": "메뉴 보물상자·아이콘·버튼·패널·배경을 직접 그린 투명 PNG UI 자산으로 전면 교체",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apk": "tangtangcat-1.0.7.apk",
+  "sha256": "84b0f106a808bdc6ef77c87c98b2fc4991d5a3c146c3e4398d451dc1cf05dd3c",
+  "size": 30523528,
+  "notes": "모험 지도에 챕터별 원근 랜드마크 8종과 스테이지 상태 마커를 직접 그린 PNG로 배치",
   "mandatory": false,
-  "publishedAt": "2026-09-18T01:07:46+09:00"
+  "publishedAt": "2026-09-18T01:15:09+09:00"
 }
