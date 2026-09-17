@@ -1,10 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "apk": "tangtangcat-1.0.7.apk",
-  "sha256": "84b0f106a808bdc6ef77c87c98b2fc4991d5a3c146c3e4398d451dc1cf05dd3c",
-  "size": 30523528,
-  "notes": "모험 지도에 챕터별 원근 랜드마크 8종과 스테이지 상태 마커를 직접 그린 PNG로 배치",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apk": "tangtangcat-1.0.8.apk",
+  "sha256": "f2851fca795bf73d42b4642211cf1940ab54dc79a2d6f55bec0ffa6dd73895a6",
+  "size": 30525416,
+  "notes": "캐릭터·40종 몬스터·보스·트럭의 투명 여백을 기준으로 발끝과 그림자를 같은 바닥선에 정렬했습니다. 이동 중에는 공중으로 뜨지 않고 바닥을 기준으로 압축됩니다.",
   "mandatory": false,
-  "publishedAt": "2026-09-18T01:15:09+09:00"
+  "publishedAt": "2026-09-18T01:25:40+09:00"
 }
