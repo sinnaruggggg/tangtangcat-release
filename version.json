@@ -1,10 +1,10 @@
 {
-    "versionCode":  4,
-    "versionName":  "1.0.3",
-    "apk":  "tangtangcat-1.0.3.apk",
-    "sha256":  "db4d3a5bbfea1002ab9fd2c6988a21aa0ad89c14949df92bbdac7ee166d8ba49",
-    "size":  15425834,
-    "notes":  "게임 중에도 새 버전을 자동으로 확인해요",
-    "mandatory":  false,
-    "publishedAt":  "2026-09-17T08:20:15+09:00"
+  "versionCode": 5,
+  "versionName": "1.0.4",
+  "apk": "tangtangcat-1.0.4.apk",
+  "sha256": "7d03fa33166a03a682d6f0d9a7d9ff916710a2821217eb4980a44327340dfefa",
+  "size": 18984876,
+  "notes": "8개 챕터의 장별 몬스터와 보스 40종을 실제 투명 PNG 에셋으로 교체",
+  "mandatory": false,
+  "publishedAt": "2026-09-18T00:11:51+09:00"
 }
