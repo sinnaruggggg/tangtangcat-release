@@ -1,10 +1,10 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.0.12",
-    "apk":  "tangtangcat-1.0.12.apk",
-    "sha256":  "bf301f14e86d86eecd54bb804caa36009afee1f604a02b0b76c498c6971259e2",
-    "size":  77676662,
-    "notes":  "골판지 v6 에셋 조합: 새 아이콘·스킬·강화·등급 프레임·게이지·타이틀·모험 지도·팝업 틀",
+    "versionCode":  14,
+    "versionName":  "1.0.13",
+    "apk":  "tangtangcat-1.0.13.apk",
+    "sha256":  "d654817db6c62d74b83e1887fcb50d81e32e80178a95b7b6fa5e0a72d9ae063f",
+    "size":  13889207,
+    "notes":  "삼색이 걷기 동작 추가, 이미지 WebP 변환으로 용량 대폭 감소",
     "mandatory":  false,
-    "publishedAt":  "2026-09-18T22:26:01+09:00"
+    "publishedAt":  "2026-09-18T22:39:48+09:00"
 }
