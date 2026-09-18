@@ -1,10 +1,10 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "apk": "tangtangcat-1.0.10.apk",
-  "sha256": "8630644ca5364ae32d28dc69ce60f0e5cac9a3a929678c39c66325e65cd8bf80",
-  "size": 30525832,
-  "notes": "스킬·장비·보상 슬롯의 원본 192:208 비율을 전역 적용했습니다. 활성 스킬도 코드로 그린 사각형 대신 원본 PNG 프레임을 사용해 모든 상태에서 프레임이 늘어나거나 찌그러지지 않습니다.",
-  "mandatory": false,
-  "publishedAt": "2026-09-18T02:27:35+09:00"
+    "versionCode":  12,
+    "versionName":  "1.0.11",
+    "apk":  "tangtangcat-1.0.11.apk",
+    "sha256":  "58ab0731c8293932af0ab630d45ccc535f51626e25f094925ef08f3619aa44e3",
+    "size":  54871519,
+    "notes":  "골판지 UI 적용, 챕터 4~8 새 전장 배경, 체력·경험치 바 수정",
+    "mandatory":  false,
+    "publishedAt":  "2026-09-18T09:24:09+09:00"
 }
