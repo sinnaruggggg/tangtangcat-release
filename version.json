@@ -1,10 +1,10 @@
 {
-    "versionCode":  12,
-    "versionName":  "1.0.11",
-    "apk":  "tangtangcat-1.0.11.apk",
-    "sha256":  "58ab0731c8293932af0ab630d45ccc535f51626e25f094925ef08f3619aa44e3",
-    "size":  54871519,
-    "notes":  "골판지 UI 적용, 챕터 4~8 새 전장 배경, 체력·경험치 바 수정",
+    "versionCode":  13,
+    "versionName":  "1.0.12",
+    "apk":  "tangtangcat-1.0.12.apk",
+    "sha256":  "bf301f14e86d86eecd54bb804caa36009afee1f604a02b0b76c498c6971259e2",
+    "size":  77676662,
+    "notes":  "골판지 v6 에셋 조합: 새 아이콘·스킬·강화·등급 프레임·게이지·타이틀·모험 지도·팝업 틀",
     "mandatory":  false,
-    "publishedAt":  "2026-09-18T09:24:09+09:00"
+    "publishedAt":  "2026-09-18T22:26:01+09:00"
 }
