@@ -1,10 +1,10 @@
 {
-    "versionCode":  18,
-    "versionName":  "1.0.17",
-    "apk":  "tangtangcat-1.0.17.apk",
-    "sha256":  "b7d7e5f8d9ab68dae3a2f1aea0ed03db49c340b48353f701024ab8129fd7d99f",
-    "size":  37545194,
-    "notes":  "다국어(11개 언어), 새 배경음·효과음, 기계냥 전선(방치형 점령), 바이오 각성(람보/초능력), 레벨업 조정, 뒤로가기 수정",
+    "versionCode":  19,
+    "versionName":  "1.0.18",
+    "apk":  "tangtangcat-1.0.18.apk",
+    "sha256":  "4d2dddc110c66fd401cd3e023d44a77a9cd690aac915c2e7b5cf3425655237ea",
+    "size":  38459298,
+    "notes":  "기계냥 전선(직접 돌격·과부하·구역 해방·역습), 각성 궁극기, 각성별 냥타이탄 개조 기체와 걷기, 길 잃은 고양이 원화, 이야기 확장, 번역 보완",
     "mandatory":  false,
-    "publishedAt":  "2026-10-25T20:51:00+09:00"
+    "publishedAt":  "2026-10-25T23:02:18+09:00"
 }
