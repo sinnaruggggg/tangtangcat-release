@@ -1,10 +1,10 @@
 {
-    "versionCode":  19,
-    "versionName":  "1.0.18",
-    "apk":  "tangtangcat-1.0.18.apk",
-    "sha256":  "4d2dddc110c66fd401cd3e023d44a77a9cd690aac915c2e7b5cf3425655237ea",
-    "size":  38459298,
-    "notes":  "기계냥 전선(직접 돌격·과부하·구역 해방·역습), 각성 궁극기, 각성별 냥타이탄 개조 기체와 걷기, 길 잃은 고양이 원화, 이야기 확장, 번역 보완",
+    "versionCode":  20,
+    "versionName":  "1.0.19",
+    "apk":  "tangtangcat-1.0.19.apk",
+    "sha256":  "01fcfb14e5794a71f9e425d58563665a5325527973b4e42b22d293f46e607d8f",
+    "size":  38612008,
+    "notes":  "게임 이름이 \u0027팡팡냥\u0027으로 바뀌었어요 (츄르 → 꿀츄). 새 로고, 냥타이탄 걷기 애니메이션",
     "mandatory":  false,
-    "publishedAt":  "2026-10-25T23:02:18+09:00"
+    "publishedAt":  "2026-10-26T01:09:30+09:00"
 }
