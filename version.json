@@ -1,10 +1,10 @@
 {
-    "versionCode":  17,
-    "versionName":  "1.0.16",
-    "apk":  "tangtangcat-1.0.16.apk",
-    "sha256":  "52903b94b616a48abd7575349b989274b8f9adda4c2ac299c8cb3404cd846902",
-    "size":  34650406,
-    "notes":  "오늘의 모험(구조 요청·주간 변이·안전가옥), 냥이 본부(동료 고양이·타운·무기 연구), 고양이 안전타운 화면, 동료 스토리",
+    "versionCode":  18,
+    "versionName":  "1.0.17",
+    "apk":  "tangtangcat-1.0.17.apk",
+    "sha256":  "b7d7e5f8d9ab68dae3a2f1aea0ed03db49c340b48353f701024ab8129fd7d99f",
+    "size":  37545194,
+    "notes":  "다국어(11개 언어), 새 배경음·효과음, 기계냥 전선(방치형 점령), 바이오 각성(람보/초능력), 레벨업 조정, 뒤로가기 수정",
     "mandatory":  false,
-    "publishedAt":  "2026-10-24T11:02:31+09:00"
+    "publishedAt":  "2026-10-25T20:51:00+09:00"
 }
