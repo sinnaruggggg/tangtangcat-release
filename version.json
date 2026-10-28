@@ -1,10 +1,10 @@
 {
-    "versionCode":  20,
-    "versionName":  "1.0.19",
-    "apk":  "tangtangcat-1.0.19.apk",
-    "sha256":  "01fcfb14e5794a71f9e425d58563665a5325527973b4e42b22d293f46e607d8f",
-    "size":  38612008,
-    "notes":  "게임 이름이 \u0027팡팡냥\u0027으로 바뀌었어요 (츄르 → 꿀츄). 새 로고, 냥타이탄 걷기 애니메이션",
+    "versionCode":  21,
+    "versionName":  "1.0.20",
+    "apk":  "tangtangcat-1.0.20.apk",
+    "sha256":  "7b33c538e926b7fefe2ec4a4d10dc2863fae3861813d606fa8b65eead43cf788",
+    "size":  40682760,
+    "notes":  "상점(광고 제거·스타터 팩·월정액 패스), 광고 보고 보상 2배·부활·오프라인 보상 2배",
     "mandatory":  false,
-    "publishedAt":  "2026-10-26T01:09:30+09:00"
+    "publishedAt":  "2026-10-28T14:27:55+09:00"
 }
