@@ -1,10 +1,10 @@
 {
-    "versionCode":  21,
-    "versionName":  "1.0.20",
-    "apk":  "tangtangcat-1.0.20.apk",
-    "sha256":  "7b33c538e926b7fefe2ec4a4d10dc2863fae3861813d606fa8b65eead43cf788",
-    "size":  40682760,
-    "notes":  "상점(광고 제거·스타터 팩·월정액 패스), 광고 보고 보상 2배·부활·오프라인 보상 2배",
+    "versionCode":  32,
+    "versionName":  "1.0.31",
+    "apk":  "https://github.com/sinnaruggggg/tangtangcat-release/releases/download/v1.0.31/tangtangcat-1.0.31.apk",
+    "sha256":  "6f1b7075c50c3c198a74631cad9e7273d7680d817786b2e0a9261d6dd71b4756",
+    "size":  161050335,
+    "notes":  "수염 연합 콘텐츠(연합 보스·미션·상점·대항전·연합 레이드), 격납고 건조, 연합원 냥이 빌리기, 동료 냥이 2마리·전투 특기, 몹 특기 다양화, 이동 멈춤 수정",
     "mandatory":  false,
-    "publishedAt":  "2026-10-28T14:27:55+09:00"
+    "publishedAt":  "2026-11-21T22:50:07+09:00"
 }
